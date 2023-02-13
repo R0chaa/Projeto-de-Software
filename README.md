@@ -4,7 +4,7 @@
 
  Protótipos desenvolvidos utilizando Figma e Diagramas de Classe, Sequência, Casos de Uso foram feitos através do StarUML.
 
- ## Os estudante responsáveis pelo desenvolvimento são:
+ ## Os estudantes responsáveis pelo desenvolvimento são:
 
  - Lucas Paulo da Rocha;
  - Luiz Octavio Tassinari Saraiva;
@@ -28,7 +28,7 @@ Se interessou? Se cadastre em nosso site e afilia-se à uma ONG. Você pode faze
 
  Você pode entender mais desse projeto acessando nossa wiki através do link: https://github.com/Lukxus/Projeto-de-Software/wiki
 
- E se quiser pode dar uma olhada no conceito desenvolvido através do Figma:
+ E se quiser pode dar uma olhada no conceito desenvolvido através do Figma [clicando aqui](https://www.figma.com/proto/aEpwvrWmV69FviXsbM8zKJ/Rede-Social?node-id=0%3A1) ou pelo link:
 
  ```
  https://www.figma.com/proto/aEpwvrWmV69FviXsbM8zKJ/Rede-Social?node-id=0%3A1
